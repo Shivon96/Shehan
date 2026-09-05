@@ -1,0 +1,6 @@
+{
+  "name": "CircuitStock - Electronics Repair Inventory & Barcode Manager",
+  "description": "Real-time stock management, camera & USB barcode scanning, bin/rack location organizer, and thermal label printing for electronics repair shops.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
